@@ -10,7 +10,7 @@ The iris flower data consists of 50 samples from 3 different species of iris flo
 **Libraries Used:**
 Numpy, Pandas, Scipy, Matplotlib, Scikit Learn, Statsmodels, Seaborn
 
-**What we learned so far from this project:**
+**What we have learned so far from this project:**
 - We have four numerical columns and just one categorical column which is our target column
 - This dataset is a balanced dataset as every category has same number of instances
 - Very high correlation is there between petal length and petal width
