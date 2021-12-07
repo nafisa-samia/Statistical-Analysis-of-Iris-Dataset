@@ -16,7 +16,7 @@ Numpy, Pandas, Scipy, Matplotlib, Scikit Learn, Statsmodels, Seaborn
 - This dataset is a balanced dataset as every category has same number of instances
 - Very high correlation is there between petal length and petal width
 - The setosa species is the most easily distinguishable because it is less distributed
-- The versicolor and virginica species are difficult to distinguise due to the overlapping of attributes
+- The versicolor and virginica species are difficult to distinguish due to the overlapping of attributes
 - All input features (sepal length, sepal width, petal length and petal width) are statistically significant in distinguishing the species of iris flower
 - The three species (setosa,versicolor, and virginica) have different petal lengths, with only partially overlapping values at the last two of them
 - We have verified that the species’ means are significantly different for all the four input features
